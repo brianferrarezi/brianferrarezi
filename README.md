@@ -1,5 +1,11 @@
-# Olá, eu sou o Brian!
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- Contato: brianferrarezi728@gmail.com
+👋🏽 Olá, eu sou o Brian!
+- 👨🏽‍🎓 Estudante de Desenvolvimento de Sistemas
+- 👨‍💻 Focado em Python
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📬 Como me encontrar
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:brianferrarezi728@gmail.com) 
+  ## Tecnologias que estudo
+<div style="display: inline_block"><br>
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" 
