@@ -2,6 +2,7 @@
 - 👨🏽‍🎓 Estudante de Desenvolvimento de Sistemas
 - 👨‍💻 Focado em Python
 - 🚀 Preparando-se para o mercado de tecnologia
+- 🐍 Falando a língua dos computadores desde os 16 anos
 - 📬 Como me encontrar
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:brianferrarezi728@gmail.com) 
   ## Tecnologias que estudo
